@@ -5,7 +5,7 @@ As a general trend the hottest temperatures occurred near the equator. Interesti
 
 ![City_Lat_v_Max_Temp](https://user-images.githubusercontent.com/48166327/58502982-8ae82000-813c-11e9-81e8-1837a92f1175.png)
 
-The highest humidity on average were at the equator. The scatter plot data showed a reduction in the variance of percent humidity  centered at the equator within a range of +20 and -20 degrees latitude. 
+The highest humidity on average was at the equator. The scatter plot data showed a reduction in the variance of percent humidity  centered at the equator within a range of +20 and -20 degrees latitude. 
 
 ![City_Lat_v_Humidity](https://user-images.githubusercontent.com/48166327/58503005-93d8f180-813c-11e9-969b-bd48fe26d825.png)
 
