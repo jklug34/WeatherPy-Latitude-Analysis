@@ -17,6 +17,6 @@ There was no correlation between city latitude and the cloudiness of a city. Int
 
 ![City_Lat_v_Cloudiness](https://user-images.githubusercontent.com/48166327/58503023-9a676900-813c-11e9-91d8-2e13c2683b68.png)
 
-In summary, these data suggest that on average the closer a city is to the equator the higher the temperature and more humid the city is likely to be. Additionally, there might be a weak association between low wind speeds or low cloud cover on average in equatorial cities.
+In summary, these data suggest that on average the closer a city is to the equator the higher the temperature and more humid the city is likely to be. Additionally, there may be a weak association between lower wind speeds or low cloud cover and proximity to the equator.
 
 
